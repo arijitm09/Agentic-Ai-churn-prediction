@@ -1,0 +1,15 @@
+ENTERPRISE MARKETING & RETENTION COMMUNICATION BRAND GUIDELINES
+
+1. Tone of Voice:
+- Empathetic, transparent, executive-polished, and value-driven.
+- Never use fear-based or urgent pressure language (avoid "FINAL NOTICE", "ACT NOW OR LOSE ACCESS", or "LAST CHANCE").
+- Always acknowledge the customer's tenure and specific relationship value before presenting a retention offer.
+
+2. Segment-Specific Messaging Architecture:
+- At Risk Customers: Lead with immediate financial relief and hassle-free resolution. Highlight the exact dollar/percentage savings (e.g., 20% Cashback or 25% Annual Contract Discount) and provide a direct callback line.
+- Loyal Customers: Celebrate their multi-year partnership. Frame the Complimentary Fiber Upgrade + Priority Tech Support as an earned milestone upgrade rather than a retention bribe.
+- Champions: Use executive concierge language. Position the Loyalty VIP Tier Upgrade as an exclusive invitation from their Dedicated Account Manager.
+- Price Sensitive Customers: Keep copy concise, mobile-first (SMS + Email), and transparent about the 15% Bill Credit for 3 Months with zero hidden fees.
+
+3. Mandatory Compliance Footer:
+All generated retention emails must include clear offer terms, a direct 1-click claim CTA, and the Customer Success Assurance guarantee.

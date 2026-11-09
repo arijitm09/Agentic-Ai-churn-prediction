@@ -1,0 +1,16 @@
+HISTORICAL RETENTION CAMPAIGN BENCHMARKS & PERFORMANCE INSIGHTS
+
+1. At Risk Customer Campaigns:
+Which campaign works best for At Risk customers?
+The "High-Value Cashback Rescue" campaign (Campaign ID: CMP-101) offering 20% Cashback delivered via Phone Call + Email works best for At Risk customers, achieving a 34.8% Response Rate and a 28.5% Retention Improvement. The second highest performing campaign for At Risk customers is the "Annual Lock-In Shield" (CMP-102) offering a 25% Annual Contract Discount via Phone Call + Email, which achieved a 31.2% Response Rate and a 26.0% Retention Improvement.
+
+2. Loyal Customers Retention Strategy:
+What retention strategy works best for Loyal Customers?
+For Loyal Customers, the "Fiber Speed & Tech Concierge Upgrade" strategy (Campaign ID: CMP-104) offering Complimentary Fiber Upgrade + Priority Tech Support via Email + In-App Notification works best, delivering a 38.4% Response Rate and a 24.2% Retention Improvement without eroding ARPU through heavy price discounting. Combining proactive service enhancements with a 15% Bill Credit for 3 Months (CMP-105) is the top fallback strategy when billing friction occurs.
+
+3. Champions Segment Channel & Campaign Performance:
+Which channel performs best for Champions?
+Dedicated Account Manager + VIP Concierge Call (paired with Exclusive Email Invitation) performs best for Champions, achieving a 46.5% Response Rate and a 31.0% Retention Improvement under the "Champions Executive VIP Club" campaign (CMP-106) with the Loyalty VIP Tier Upgrade offer. Champions respond poorly to generic mass SMS blasts (under 11% response rate) and strongly prefer personalized white-glove concierge outreach.
+
+4. Price Sensitive / Hibernating Segment Benchmarks:
+For Price Sensitive customers, the "15% Bill Relief Wave" (CMP-107) offering a 15% Bill Credit for 3 Months via SMS + Email achieves a 29.5% Response Rate and 21.8% Retention Improvement.

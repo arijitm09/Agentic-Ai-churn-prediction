@@ -1,0 +1,501 @@
+CustomerID,CustomerName,ContractType,Tenure,MonthlyCharges,TotalCharges,InternetService,TechSupport,OnlineSecurity,PaymentMethod,SupportCalls,Churn
+CUST-1001,Kavya Sen,One year,46,78.29,3592.05,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1002,Rahul Thomas,Month-to-month,8,85.36,679.53,Fiber optic,No,No,Electronic check,3,1
+CUST-1003,Marcus Joshi,One year,12,81.67,999.44,Fiber optic,No,Yes,Electronic check,4,1
+CUST-1004,Mia Davis,Month-to-month,35,85.49,2982.03,DSL,Yes,No,Credit card (automatic),0,0
+CUST-1005,Neha Gupta,Month-to-month,14,108.59,1538.95,Fiber optic,No,No,Electronic check,3,1
+CUST-1006,Karan Banerjee,One year,21,61.01,1277.06,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1007,Tanvi Patel,One year,45,68.07,3059.89,Fiber optic,Yes,Yes,Credit card (automatic),0,1
+CUST-1008,Chloe Das,Month-to-month,8,81.0,646.24,Fiber optic,No,Yes,Electronic check,3,1
+CUST-1009,Ananya Jackson,Two year,41,67.34,2774.81,DSL,Yes,No,Bank transfer (automatic),1,0
+CUST-1010,Aditya Malhotra,Month-to-month,11,79.03,874.67,Fiber optic,No,No,Electronic check,2,1
+CUST-1011,Riya Wilson,Month-to-month,13,116.19,1507.3,Fiber optic,No,Yes,Electronic check,4,1
+CUST-1012,Olivia Mehta,One year,29,76.34,2207.98,DSL,No,Yes,Credit card (automatic),2,0
+CUST-1013,Priya Mukherjee,Month-to-month,12,47.93,566.89,DSL,No,No,Electronic check,2,1
+CUST-1014,Arjun Verma,One year,37,90.72,3343.12,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1015,Sneha Rao,One year,39,79.57,3111.94,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1016,Sophia White,Two year,34,79.5,2700.83,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1017,Ethan Bose,Month-to-month,4,106.8,428.1,Fiber optic,No,No,Bank transfer (automatic),5,1
+CUST-1018,Siddharth Taylor,Month-to-month,14,61.4,866.81,DSL,No,No,Bank transfer (automatic),3,1
+CUST-1019,Pooja Reddy,One year,14,103.64,1471.44,DSL,No,No,Credit card (automatic),3,0
+CUST-1020,Elena Chen,One year,54,104.08,5616.68,DSL,Yes,No,Bank transfer (automatic),0,0
+CUST-1021,Lucas Iyer,Two year,20,82.21,1663.17,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1022,Rohan Kulkarni,One year,29,66.52,1931.46,DSL,No,Yes,Electronic check,1,0
+CUST-1023,Divya Harris,Two year,58,105.84,6161.34,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1024,Varun Chatterjee,One year,6,40.91,242.69,Fiber optic,No,Yes,Electronic check,2,1
+CUST-1025,Daniel Anderson,Month-to-month,3,115.91,372.33,Fiber optic,No,No,Electronic check,4,1
+CUST-1026,Vikram Kapoor,One year,19,62.65,1185.6,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1027,Meera Miller,Month-to-month,7,104.32,730.26,Fiber optic,No,Yes,Electronic check,4,1
+CUST-1028,Nikhil Nair,One year,39,91.38,3560.95,Fiber optic,No,Yes,Credit card (automatic),2,0
+CUST-1029,David Deshmukh,Two year,25,79.18,1990.0,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1030,Aarav Sharma,Month-to-month,13,38.84,523.36,No,No,No,Bank transfer (automatic),2,0
+CUST-1031,Kavya Sen,Month-to-month,43,66.15,2850.12,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1032,Rahul Thomas,One year,46,70.1,3211.23,Fiber optic,Yes,Yes,Credit card (automatic),2,0
+CUST-1033,Marcus Joshi,Two year,55,108.63,5997.62,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1034,Mia Davis,Month-to-month,10,112.69,1112.96,Fiber optic,No,No,Electronic check,4,1
+CUST-1035,Neha Gupta,Month-to-month,27,33.93,927.17,DSL,Yes,No,Bank transfer (automatic),3,1
+CUST-1036,Karan Banerjee,Month-to-month,12,81.82,967.77,Fiber optic,No,No,Credit card (automatic),4,1
+CUST-1037,Tanvi Patel,Two year,21,89.85,1888.79,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1038,Chloe Das,One year,20,84.4,1703.03,Fiber optic,No,No,Credit card (automatic),0,0
+CUST-1039,Ananya Jackson,Month-to-month,1,93.78,112.67,Fiber optic,No,No,Bank transfer (automatic),3,1
+CUST-1040,Aditya Malhotra,Month-to-month,23,44.97,1050.97,No,No,No,Mailed check,1,0
+CUST-1041,Riya Wilson,One year,10,80.26,815.12,DSL,No,No,Bank transfer (automatic),4,0
+CUST-1042,Olivia Mehta,Month-to-month,9,32.01,312.56,No,No,No,Electronic check,3,1
+CUST-1043,Priya Mukherjee,One year,37,78.12,2903.64,DSL,No,Yes,Credit card (automatic),1,0
+CUST-1044,Arjun Verma,One year,47,73.93,3489.55,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1045,Sneha Rao,Month-to-month,20,44.55,877.74,DSL,Yes,No,Electronic check,3,0
+CUST-1046,Sophia White,Month-to-month,7,47.55,341.22,Fiber optic,No,No,Mailed check,2,0
+CUST-1047,Ethan Bose,One year,12,93.98,1128.29,Fiber optic,No,No,Electronic check,2,1
+CUST-1048,Siddharth Taylor,One year,5,106.28,522.9,DSL,No,No,Electronic check,4,0
+CUST-1049,Pooja Reddy,Month-to-month,21,61.21,1286.86,DSL,Yes,No,Electronic check,1,0
+CUST-1050,Elena Chen,One year,32,70.95,2271.99,DSL,No,No,Bank transfer (automatic),3,0
+CUST-1051,Lucas Iyer,Month-to-month,6,108.37,650.33,Fiber optic,No,No,Credit card (automatic),6,1
+CUST-1052,Rohan Kulkarni,One year,1,87.26,99.12,Fiber optic,No,No,Electronic check,4,1
+CUST-1053,Divya Harris,Two year,70,113.94,7977.62,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1054,Varun Chatterjee,Two year,54,82.48,4475.09,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1055,Daniel Anderson,Month-to-month,41,75.8,3123.56,Fiber optic,No,Yes,Bank transfer (automatic),1,1
+CUST-1056,Vikram Kapoor,Month-to-month,6,103.65,612.98,Fiber optic,No,No,Electronic check,3,1
+CUST-1057,Meera Miller,Two year,51,110.85,5671.22,Fiber optic,No,Yes,Credit card (automatic),0,0
+CUST-1058,Nikhil Nair,One year,39,73.67,2859.7,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1059,David Deshmukh,Two year,58,94.45,5502.55,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1060,Aarav Sharma,Month-to-month,17,45.46,793.63,DSL,No,No,Mailed check,3,1
+CUST-1061,Kavya Sen,Month-to-month,30,71.5,2163.63,Fiber optic,No,Yes,Bank transfer (automatic),0,1
+CUST-1062,Rahul Thomas,Month-to-month,42,81.09,3414.25,DSL,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1063,Marcus Joshi,One year,36,88.59,3211.59,Fiber optic,Yes,Yes,Credit card (automatic),1,1
+CUST-1064,Mia Davis,Month-to-month,6,85.56,519.34,Fiber optic,No,Yes,Electronic check,3,1
+CUST-1065,Neha Gupta,Month-to-month,9,59.36,556.42,Fiber optic,No,No,Mailed check,3,1
+CUST-1066,Karan Banerjee,Two year,36,90.91,3286.05,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1067,Tanvi Patel,Month-to-month,14,99.57,1418.58,Fiber optic,No,No,Electronic check,2,1
+CUST-1068,Chloe Das,Month-to-month,4,33.53,153.15,DSL,No,Yes,Electronic check,2,1
+CUST-1069,Ananya Jackson,Two year,38,64.16,2428.67,DSL,No,Yes,Bank transfer (automatic),0,0
+CUST-1070,Aditya Malhotra,Month-to-month,14,87.55,1238.02,Fiber optic,Yes,No,Electronic check,4,1
+CUST-1071,Riya Wilson,Two year,62,96.48,5969.42,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1072,Olivia Mehta,Month-to-month,23,69.39,1616.73,DSL,No,No,Bank transfer (automatic),0,0
+CUST-1073,Priya Mukherjee,Month-to-month,1,83.8,83.8,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1074,Arjun Verma,One year,30,85.11,2563.95,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1075,Sneha Rao,One year,28,90.61,2546.68,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1076,Sophia White,Month-to-month,2,113.32,239.93,Fiber optic,No,No,Bank transfer (automatic),6,1
+CUST-1077,Ethan Bose,One year,43,61.54,2637.84,Fiber optic,No,Yes,Credit card (automatic),2,0
+CUST-1078,Siddharth Taylor,One year,4,49.9,184.79,DSL,No,No,Bank transfer (automatic),2,0
+CUST-1079,Pooja Reddy,Month-to-month,42,73.83,3122.37,DSL,No,Yes,Credit card (automatic),1,1
+CUST-1080,Elena Chen,One year,37,70.32,2593.96,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1081,Lucas Iyer,Month-to-month,6,85.47,529.81,Fiber optic,No,No,Electronic check,3,1
+CUST-1082,Rohan Kulkarni,One year,34,77.2,2627.43,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1083,Divya Harris,One year,21,90.17,1879.59,DSL,Yes,No,Credit card (automatic),1,0
+CUST-1084,Varun Chatterjee,Two year,51,89.63,4563.27,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1085,Daniel Anderson,Month-to-month,2,102.43,206.12,DSL,Yes,Yes,Electronic check,5,1
+CUST-1086,Vikram Kapoor,Month-to-month,10,79.07,808.4,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1087,Meera Miller,Month-to-month,2,111.64,217.06,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1088,Nikhil Nair,One year,60,111.52,6697.87,Fiber optic,Yes,Yes,Credit card (automatic),1,0
+CUST-1089,David Deshmukh,Month-to-month,6,83.36,506.35,Fiber optic,No,No,Credit card (automatic),6,1
+CUST-1090,Aarav Sharma,One year,19,86.21,1657.95,DSL,Yes,Yes,Electronic check,0,0
+CUST-1091,Kavya Sen,Two year,68,109.66,7480.23,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1092,Rahul Thomas,Month-to-month,3,89.69,273.11,Fiber optic,No,No,Electronic check,3,1
+CUST-1093,Marcus Joshi,Month-to-month,8,48.12,376.15,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1094,Mia Davis,One year,26,74.85,1963.08,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1095,Neha Gupta,Month-to-month,2,110.7,209.87,Fiber optic,No,No,Electronic check,6,1
+CUST-1096,Karan Banerjee,Two year,64,103.03,6580.98,Fiber optic,No,Yes,Bank transfer (automatic),2,0
+CUST-1097,Tanvi Patel,One year,7,97.17,669.8,Fiber optic,No,No,Electronic check,3,1
+CUST-1098,Chloe Das,One year,63,109.35,6877.13,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1099,Ananya Jackson,One year,40,85.34,3415.67,DSL,No,No,Bank transfer (automatic),1,0
+CUST-1100,Aditya Malhotra,Month-to-month,20,87.74,1753.83,Fiber optic,No,No,Electronic check,1,1
+CUST-1101,Riya Wilson,One year,38,67.24,2569.41,DSL,Yes,Yes,Bank transfer (automatic),1,1
+CUST-1102,Olivia Mehta,One year,41,65.94,2703.91,Fiber optic,Yes,No,Credit card (automatic),0,0
+CUST-1103,Priya Mukherjee,Month-to-month,10,101.84,1042.97,Fiber optic,Yes,No,Bank transfer (automatic),6,1
+CUST-1104,Arjun Verma,One year,8,102.61,813.34,Fiber optic,No,No,Electronic check,4,1
+CUST-1105,Sneha Rao,Two year,22,75.62,1668.29,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1106,Sophia White,Month-to-month,6,48.03,283.8,DSL,No,No,Bank transfer (automatic),2,1
+CUST-1107,Ethan Bose,One year,5,52.11,255.94,Fiber optic,No,No,Electronic check,2,0
+CUST-1108,Siddharth Taylor,Month-to-month,23,88.41,2054.69,Fiber optic,Yes,No,Bank transfer (automatic),3,1
+CUST-1109,Pooja Reddy,Two year,51,110.99,5673.82,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1110,Elena Chen,Two year,53,88.24,4661.93,Fiber optic,No,Yes,Bank transfer (automatic),1,0
+CUST-1111,Lucas Iyer,Month-to-month,7,111.7,806.15,Fiber optic,No,No,Electronic check,4,1
+CUST-1112,Rohan Kulkarni,Month-to-month,12,83.2,999.09,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1113,Divya Harris,One year,65,84.24,5474.44,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1114,Varun Chatterjee,One year,2,96.06,209.98,Fiber optic,No,No,Electronic check,4,1
+CUST-1115,Daniel Anderson,One year,14,38.94,561.95,DSL,No,No,Electronic check,4,0
+CUST-1116,Vikram Kapoor,Month-to-month,2,83.32,188.02,Fiber optic,Yes,No,Electronic check,5,1
+CUST-1117,Meera Miller,Month-to-month,22,43.62,970.71,Fiber optic,No,No,Electronic check,3,1
+CUST-1118,Nikhil Nair,Month-to-month,19,36.53,679.78,DSL,No,No,Electronic check,1,0
+CUST-1119,David Deshmukh,Month-to-month,41,85.08,3490.49,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1120,Aarav Sharma,One year,39,85.12,3320.38,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1121,Kavya Sen,Two year,54,107.74,5842.43,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1122,Rahul Thomas,One year,39,84.38,3279.12,Fiber optic,Yes,Yes,Electronic check,3,0
+CUST-1123,Marcus Joshi,One year,24,81.44,1965.02,DSL,Yes,Yes,Credit card (automatic),2,0
+CUST-1124,Mia Davis,Month-to-month,6,90.1,550.09,Fiber optic,Yes,No,Credit card (automatic),6,1
+CUST-1125,Neha Gupta,Two year,59,96.93,5706.28,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1126,Karan Banerjee,Month-to-month,13,97.04,1252.99,Fiber optic,Yes,No,Electronic check,4,1
+CUST-1127,Tanvi Patel,One year,48,103.46,4961.39,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1128,Chloe Das,Month-to-month,27,42.3,1144.64,DSL,No,Yes,Mailed check,4,0
+CUST-1129,Ananya Jackson,One year,19,80.27,1528.76,DSL,Yes,Yes,Credit card (automatic),3,0
+CUST-1130,Aditya Malhotra,Month-to-month,10,85.28,857.49,DSL,Yes,No,Credit card (automatic),3,1
+CUST-1131,Riya Wilson,Month-to-month,18,52.36,961.8,DSL,No,No,Electronic check,1,1
+CUST-1132,Olivia Mehta,One year,29,73.43,2127.95,DSL,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1133,Priya Mukherjee,One year,37,66.59,2470.17,DSL,Yes,No,Credit card (automatic),1,0
+CUST-1134,Arjun Verma,Two year,67,88.79,5971.39,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1135,Sneha Rao,Month-to-month,6,82.18,505.52,Fiber optic,No,No,Electronic check,4,1
+CUST-1136,Sophia White,Month-to-month,46,75.53,3471.7,Fiber optic,No,Yes,Credit card (automatic),1,0
+CUST-1137,Ethan Bose,Month-to-month,7,107.6,764.67,Fiber optic,No,Yes,Electronic check,3,1
+CUST-1138,Siddharth Taylor,One year,47,87.54,4126.44,DSL,Yes,No,Bank transfer (automatic),1,0
+CUST-1139,Pooja Reddy,Two year,64,93.5,6008.73,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1140,Elena Chen,Month-to-month,15,94.37,1432.46,DSL,No,No,Credit card (automatic),3,1
+CUST-1141,Lucas Iyer,Month-to-month,27,40.83,1109.35,No,No,No,Electronic check,2,0
+CUST-1142,Rohan Kulkarni,One year,20,78.52,1589.93,Fiber optic,Yes,Yes,Credit card (automatic),1,0
+CUST-1143,Divya Harris,Two year,38,63.07,2403.64,Fiber optic,Yes,Yes,Credit card (automatic),1,0
+CUST-1144,Varun Chatterjee,Two year,54,82.25,4428.91,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1145,Daniel Anderson,One year,19,75.78,1428.41,DSL,No,Yes,Bank transfer (automatic),1,0
+CUST-1146,Vikram Kapoor,One year,30,64.16,1914.08,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1147,Meera Miller,Month-to-month,4,111.04,454.68,Fiber optic,No,No,Electronic check,3,1
+CUST-1148,Nikhil Nair,One year,43,71.97,3110.93,DSL,No,Yes,Credit card (automatic),2,0
+CUST-1149,David Deshmukh,Month-to-month,10,51.02,529.71,DSL,No,No,Mailed check,2,1
+CUST-1150,Aarav Sharma,Month-to-month,5,100.14,525.21,Fiber optic,No,No,Electronic check,3,1
+CUST-1151,Kavya Sen,Two year,46,105.91,4870.35,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1152,Rahul Thomas,Two year,47,88.33,4157.27,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1153,Marcus Joshi,Month-to-month,24,52.96,1271.18,DSL,No,No,Electronic check,1,1
+CUST-1154,Mia Davis,Month-to-month,26,48.9,1277.83,DSL,No,No,Electronic check,4,1
+CUST-1155,Neha Gupta,One year,33,91.36,3000.68,Fiber optic,Yes,Yes,Electronic check,1,0
+CUST-1156,Karan Banerjee,One year,44,102.58,4529.8,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1157,Tanvi Patel,Month-to-month,1,93.43,93.43,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1158,Chloe Das,One year,9,63.73,591.27,DSL,No,Yes,Electronic check,3,1
+CUST-1159,Ananya Jackson,One year,17,40.01,679.01,No,No,No,Mailed check,1,0
+CUST-1160,Aditya Malhotra,Two year,68,92.35,6277.5,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1161,Riya Wilson,Month-to-month,16,30.39,488.54,DSL,Yes,No,Bank transfer (automatic),1,0
+CUST-1162,Olivia Mehta,One year,35,58.01,2037.93,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1163,Priya Mukherjee,One year,14,106.15,1483.23,Fiber optic,No,No,Electronic check,6,1
+CUST-1164,Arjun Verma,Two year,71,89.55,6376.97,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1165,Sneha Rao,Two year,46,109.31,5032.51,Fiber optic,Yes,Yes,Credit card (automatic),1,1
+CUST-1166,Sophia White,Month-to-month,10,103.07,1018.28,Fiber optic,No,No,Electronic check,3,1
+CUST-1167,Ethan Bose,One year,34,86.71,2962.63,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1168,Siddharth Taylor,Month-to-month,37,90.51,3366.23,Fiber optic,Yes,No,Electronic check,0,1
+CUST-1169,Pooja Reddy,Month-to-month,2,96.69,202.94,DSL,No,Yes,Electronic check,4,1
+CUST-1170,Elena Chen,One year,36,73.07,2647.61,DSL,Yes,No,Bank transfer (automatic),0,0
+CUST-1171,Lucas Iyer,Month-to-month,4,90.01,352.0,Fiber optic,No,No,Electronic check,3,1
+CUST-1172,Rohan Kulkarni,Two year,51,84.71,4320.49,Fiber optic,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1173,Divya Harris,Month-to-month,14,116.87,1640.15,Fiber optic,Yes,No,Electronic check,4,1
+CUST-1174,Varun Chatterjee,Two year,33,62.36,2060.16,DSL,No,Yes,Credit card (automatic),0,0
+CUST-1175,Daniel Anderson,Two year,65,104.31,6777.83,DSL,Yes,No,Bank transfer (automatic),0,0
+CUST-1176,Vikram Kapoor,Month-to-month,15,96.65,1441.85,Fiber optic,No,No,Electronic check,5,1
+CUST-1177,Meera Miller,Month-to-month,25,33.22,821.53,No,No,Yes,Electronic check,2,1
+CUST-1178,Nikhil Nair,One year,22,68.12,1514.08,Fiber optic,No,No,Bank transfer (automatic),1,1
+CUST-1179,David Deshmukh,Two year,33,87.97,2900.45,DSL,Yes,No,Bank transfer (automatic),0,0
+CUST-1180,Aarav Sharma,Month-to-month,5,48.62,236.2,No,Yes,No,Mailed check,1,0
+CUST-1181,Kavya Sen,Two year,28,73.99,2087.94,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1182,Rahul Thomas,Month-to-month,6,78.13,477.31,Fiber optic,No,No,Electronic check,4,1
+CUST-1183,Marcus Joshi,Two year,67,105.2,7034.32,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1184,Mia Davis,Two year,62,107.9,6680.7,Fiber optic,Yes,Yes,Credit card (automatic),1,0
+CUST-1185,Neha Gupta,One year,35,85.25,2994.25,Fiber optic,No,Yes,Credit card (automatic),2,0
+CUST-1186,Karan Banerjee,Month-to-month,15,93.55,1401.63,DSL,No,No,Electronic check,4,1
+CUST-1187,Tanvi Patel,Month-to-month,14,115.65,1619.18,Fiber optic,No,Yes,Electronic check,5,1
+CUST-1188,Chloe Das,One year,38,62.54,2390.7,Fiber optic,No,Yes,Credit card (automatic),0,0
+CUST-1189,Ananya Jackson,Month-to-month,12,115.37,1370.89,Fiber optic,No,No,Electronic check,4,1
+CUST-1190,Aditya Malhotra,Month-to-month,14,108.76,1508.98,Fiber optic,No,No,Electronic check,3,1
+CUST-1191,Riya Wilson,Month-to-month,24,41.48,1002.93,DSL,No,No,Bank transfer (automatic),3,0
+CUST-1192,Olivia Mehta,Month-to-month,12,98.03,1174.89,Fiber optic,No,No,Electronic check,6,1
+CUST-1193,Priya Mukherjee,Month-to-month,15,34.72,526.74,DSL,No,Yes,Mailed check,1,1
+CUST-1194,Arjun Verma,Month-to-month,14,48.25,698.33,No,No,No,Electronic check,1,0
+CUST-1195,Sneha Rao,One year,45,106.73,4826.97,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1196,Sophia White,Month-to-month,24,83.79,2002.42,Fiber optic,Yes,Yes,Bank transfer (automatic),2,1
+CUST-1197,Ethan Bose,One year,11,30.44,339.75,No,No,Yes,Electronic check,1,1
+CUST-1198,Siddharth Taylor,Two year,68,96.56,6581.38,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1199,Pooja Reddy,One year,26,76.12,1998.41,DSL,No,No,Credit card (automatic),0,0
+CUST-1200,Elena Chen,Month-to-month,8,79.35,651.74,Fiber optic,No,Yes,Electronic check,3,0
+CUST-1201,Lucas Iyer,One year,12,62.87,746.08,DSL,Yes,No,Mailed check,2,0
+CUST-1202,Rohan Kulkarni,One year,40,61.16,2470.34,DSL,No,Yes,Credit card (automatic),0,0
+CUST-1203,Divya Harris,One year,23,68.69,1584.64,DSL,No,Yes,Credit card (automatic),1,0
+CUST-1204,Varun Chatterjee,One year,43,60.96,2613.93,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1205,Daniel Anderson,Two year,39,86.69,3378.51,DSL,Yes,No,Credit card (automatic),0,1
+CUST-1206,Vikram Kapoor,One year,49,109.62,5368.59,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1207,Meera Miller,Month-to-month,5,114.6,584.03,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1208,Nikhil Nair,Month-to-month,11,96.64,1052.47,Fiber optic,No,No,Bank transfer (automatic),5,1
+CUST-1209,David Deshmukh,Month-to-month,8,83.16,683.86,DSL,Yes,Yes,Electronic check,4,0
+CUST-1210,Aarav Sharma,Two year,52,91.29,4735.94,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1211,Kavya Sen,Month-to-month,8,81.01,668.17,DSL,No,No,Electronic check,3,1
+CUST-1212,Rahul Thomas,Month-to-month,39,60.68,2391.34,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1213,Marcus Joshi,One year,22,74.6,1628.79,Fiber optic,Yes,Yes,Electronic check,1,0
+CUST-1214,Mia Davis,Month-to-month,7,95.6,678.48,Fiber optic,No,Yes,Electronic check,5,1
+CUST-1215,Neha Gupta,Two year,46,62.48,2869.94,DSL,No,No,Credit card (automatic),0,0
+CUST-1216,Karan Banerjee,Month-to-month,11,38.28,417.15,DSL,No,No,Electronic check,2,0
+CUST-1217,Tanvi Patel,Two year,34,73.21,2476.12,Fiber optic,Yes,Yes,Electronic check,1,0
+CUST-1218,Chloe Das,Month-to-month,4,49.24,185.44,Fiber optic,No,Yes,Electronic check,2,1
+CUST-1219,Ananya Jackson,Month-to-month,3,79.2,229.21,Fiber optic,No,No,Bank transfer (automatic),4,1
+CUST-1220,Aditya Malhotra,One year,51,102.06,5190.12,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1221,Riya Wilson,Month-to-month,13,113.3,1461.59,Fiber optic,No,No,Electronic check,3,1
+CUST-1222,Olivia Mehta,One year,34,70.06,2390.79,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1223,Priya Mukherjee,Two year,65,87.67,5723.2,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1224,Arjun Verma,Two year,55,101.05,5571.92,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1225,Sneha Rao,One year,25,32.18,804.87,DSL,Yes,No,Electronic check,2,0
+CUST-1226,Sophia White,One year,26,77.79,2022.52,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1227,Ethan Bose,One year,21,90.19,1894.42,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1228,Siddharth Taylor,Two year,34,70.4,2384.22,DSL,No,Yes,Bank transfer (automatic),0,0
+CUST-1229,Pooja Reddy,Month-to-month,11,82.02,899.75,Fiber optic,Yes,No,Electronic check,3,1
+CUST-1230,Elena Chen,Month-to-month,27,90.5,2467.86,Fiber optic,No,No,Bank transfer (automatic),0,1
+CUST-1231,Lucas Iyer,Month-to-month,23,56.19,1287.25,Fiber optic,No,No,Electronic check,4,1
+CUST-1232,Rohan Kulkarni,One year,19,59.96,1138.13,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1233,Divya Harris,Month-to-month,3,86.4,275.9,Fiber optic,No,No,Electronic check,5,1
+CUST-1234,Varun Chatterjee,Two year,51,99.92,5102.26,Fiber optic,No,No,Bank transfer (automatic),0,0
+CUST-1235,Daniel Anderson,Month-to-month,11,105.57,1166.79,Fiber optic,No,Yes,Bank transfer (automatic),4,1
+CUST-1236,Vikram Kapoor,Two year,49,91.43,4484.76,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1237,Meera Miller,Month-to-month,17,50.27,841.97,DSL,Yes,No,Bank transfer (automatic),2,1
+CUST-1238,Nikhil Nair,One year,44,111.15,4876.36,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1239,David Deshmukh,One year,54,102.87,5561.12,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1240,Aarav Sharma,Month-to-month,21,39.66,823.57,Fiber optic,Yes,Yes,Mailed check,1,0
+CUST-1241,Kavya Sen,Two year,52,102.25,5318.28,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1242,Rahul Thomas,Two year,20,81.72,1623.92,DSL,Yes,No,Bank transfer (automatic),0,0
+CUST-1243,Marcus Joshi,Month-to-month,6,94.32,588.09,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1244,Mia Davis,Month-to-month,10,51.6,505.92,DSL,No,No,Mailed check,4,0
+CUST-1245,Neha Gupta,One year,47,76.86,3609.55,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1246,Karan Banerjee,One year,21,67.23,1399.0,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1247,Tanvi Patel,One year,34,67.39,2286.13,Fiber optic,Yes,No,Credit card (automatic),1,0
+CUST-1248,Chloe Das,Two year,28,77.21,2163.78,Fiber optic,Yes,No,Electronic check,2,0
+CUST-1249,Ananya Jackson,Month-to-month,22,46.54,1015.56,No,No,Yes,Electronic check,2,0
+CUST-1250,Aditya Malhotra,Two year,44,104.31,4614.62,Fiber optic,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1251,Riya Wilson,One year,24,73.56,1781.14,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1252,Olivia Mehta,Month-to-month,5,45.79,225.76,No,No,No,Mailed check,3,1
+CUST-1253,Priya Mukherjee,Two year,61,83.72,5093.64,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1254,Arjun Verma,Month-to-month,25,58.32,1447.97,DSL,No,No,Electronic check,1,1
+CUST-1255,Sneha Rao,One year,32,67.07,2161.73,DSL,No,Yes,Credit card (automatic),1,0
+CUST-1256,Sophia White,Month-to-month,1,83.08,83.08,DSL,No,No,Electronic check,2,1
+CUST-1257,Ethan Bose,Two year,18,79.82,1456.93,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1258,Siddharth Taylor,Two year,25,73.57,1834.11,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1259,Pooja Reddy,Two year,66,114.68,7576.33,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1260,Elena Chen,Month-to-month,10,103.21,1042.54,Fiber optic,No,No,Credit card (automatic),5,1
+CUST-1261,Lucas Iyer,One year,54,93.13,5041.62,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1262,Rohan Kulkarni,One year,26,90.57,2342.87,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1263,Divya Harris,Month-to-month,21,45.32,963.69,DSL,Yes,No,Bank transfer (automatic),2,1
+CUST-1264,Varun Chatterjee,One year,21,62.64,1339.69,DSL,Yes,Yes,Mailed check,1,0
+CUST-1265,Daniel Anderson,One year,9,86.67,779.23,Fiber optic,No,Yes,Electronic check,2,1
+CUST-1266,Vikram Kapoor,Month-to-month,33,63.5,2107.16,DSL,No,Yes,Bank transfer (automatic),1,1
+CUST-1267,Meera Miller,Month-to-month,39,86.4,3356.44,DSL,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1268,Nikhil Nair,Month-to-month,7,95.36,664.08,Fiber optic,No,No,Electronic check,2,1
+CUST-1269,David Deshmukh,Month-to-month,22,46.11,1017.19,DSL,No,No,Electronic check,2,1
+CUST-1270,Aarav Sharma,Two year,56,93.83,5243.55,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1271,Kavya Sen,Month-to-month,9,84.0,763.53,DSL,No,No,Electronic check,4,1
+CUST-1272,Rahul Thomas,One year,36,88.4,3186.45,Fiber optic,No,Yes,Bank transfer (automatic),3,0
+CUST-1273,Marcus Joshi,Month-to-month,13,102.05,1346.83,Fiber optic,No,No,Electronic check,2,1
+CUST-1274,Mia Davis,Month-to-month,11,106.09,1173.55,Fiber optic,No,No,Credit card (automatic),5,1
+CUST-1275,Neha Gupta,One year,22,76.09,1667.0,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1276,Karan Banerjee,Month-to-month,4,107.54,449.1,Fiber optic,No,No,Electronic check,6,1
+CUST-1277,Tanvi Patel,Two year,47,67.23,3153.63,Fiber optic,Yes,No,Credit card (automatic),0,0
+CUST-1278,Chloe Das,Two year,25,76.51,1935.84,Fiber optic,Yes,No,Bank transfer (automatic),1,1
+CUST-1279,Ananya Jackson,One year,4,83.26,356.94,Fiber optic,No,No,Electronic check,4,1
+CUST-1280,Aditya Malhotra,Month-to-month,15,115.3,1746.78,Fiber optic,No,Yes,Electronic check,4,1
+CUST-1281,Riya Wilson,Two year,23,62.04,1424.4,Fiber optic,No,Yes,Bank transfer (automatic),2,0
+CUST-1282,Olivia Mehta,One year,21,86.53,1811.53,Fiber optic,No,No,Credit card (automatic),0,0
+CUST-1283,Priya Mukherjee,One year,4,46.92,194.79,DSL,Yes,No,Bank transfer (automatic),3,0
+CUST-1284,Arjun Verma,Month-to-month,10,103.31,1030.61,Fiber optic,No,No,Electronic check,3,1
+CUST-1285,Sneha Rao,One year,26,52.75,1370.62,DSL,No,No,Electronic check,1,0
+CUST-1286,Sophia White,Month-to-month,42,66.4,2776.68,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1287,Ethan Bose,Two year,18,79.5,1427.11,DSL,Yes,No,Credit card (automatic),0,0
+CUST-1288,Siddharth Taylor,One year,42,91.22,3823.83,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1289,Pooja Reddy,Month-to-month,1,86.32,110.06,Fiber optic,No,No,Electronic check,4,1
+CUST-1290,Elena Chen,One year,13,95.43,1251.26,Fiber optic,No,No,Electronic check,4,1
+CUST-1291,Lucas Iyer,Two year,44,78.74,3487.43,DSL,Yes,Yes,Electronic check,0,0
+CUST-1292,Rohan Kulkarni,Month-to-month,15,78.27,1184.15,DSL,No,No,Electronic check,5,1
+CUST-1293,Divya Harris,Month-to-month,12,43.27,508.32,Fiber optic,No,No,Bank transfer (automatic),3,1
+CUST-1294,Varun Chatterjee,Month-to-month,20,85.44,1733.65,Fiber optic,No,Yes,Credit card (automatic),2,1
+CUST-1295,Daniel Anderson,One year,26,61.11,1583.8,DSL,No,No,Credit card (automatic),0,0
+CUST-1296,Vikram Kapoor,Month-to-month,2,107.68,233.9,Fiber optic,No,No,Bank transfer (automatic),4,1
+CUST-1297,Meera Miller,One year,16,47.22,757.62,DSL,Yes,No,Mailed check,1,0
+CUST-1298,Nikhil Nair,Two year,50,111.55,5572.44,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1299,David Deshmukh,One year,21,84.66,1770.9,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1300,Aarav Sharma,One year,28,61.58,1715.62,DSL,Yes,No,Credit card (automatic),2,0
+CUST-1301,Kavya Sen,One year,10,107.18,1093.78,Fiber optic,No,No,Electronic check,5,1
+CUST-1302,Rahul Thomas,One year,42,86.17,3617.21,Fiber optic,Yes,No,Electronic check,2,0
+CUST-1303,Marcus Joshi,One year,24,88.72,2146.06,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1304,Mia Davis,Two year,33,78.76,2593.26,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1305,Neha Gupta,Month-to-month,8,109.97,894.06,Fiber optic,No,No,Electronic check,3,1
+CUST-1306,Karan Banerjee,Month-to-month,15,99.03,1479.82,Fiber optic,No,No,Electronic check,4,1
+CUST-1307,Tanvi Patel,One year,11,55.51,603.76,DSL,No,No,Mailed check,3,0
+CUST-1308,Chloe Das,Two year,18,61.92,1127.24,Fiber optic,Yes,Yes,Credit card (automatic),1,0
+CUST-1309,Ananya Jackson,Two year,34,90.35,3073.22,DSL,Yes,No,Bank transfer (automatic),2,0
+CUST-1310,Aditya Malhotra,Month-to-month,10,107.3,1077.4,Fiber optic,No,Yes,Credit card (automatic),4,1
+CUST-1311,Riya Wilson,Two year,57,95.35,5420.57,DSL,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1312,Olivia Mehta,Month-to-month,8,99.94,799.54,Fiber optic,No,No,Electronic check,6,1
+CUST-1313,Priya Mukherjee,One year,46,65.48,3015.65,Fiber optic,Yes,Yes,Credit card (automatic),1,0
+CUST-1314,Arjun Verma,One year,54,109.44,5898.91,Fiber optic,Yes,Yes,Credit card (automatic),1,1
+CUST-1315,Sneha Rao,One year,26,83.56,2182.38,DSL,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1316,Sophia White,Month-to-month,9,84.43,778.97,Fiber optic,No,No,Credit card (automatic),3,1
+CUST-1317,Ethan Bose,Two year,55,90.94,5003.69,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1318,Siddharth Taylor,One year,32,62.54,2008.25,DSL,Yes,No,Credit card (automatic),1,0
+CUST-1319,Pooja Reddy,Two year,46,90.89,4176.53,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1320,Elena Chen,Month-to-month,7,56.64,400.04,Fiber optic,Yes,No,Electronic check,3,1
+CUST-1321,Lucas Iyer,Two year,20,87.18,1758.05,DSL,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1322,Rohan Kulkarni,One year,61,101.03,6177.76,Fiber optic,Yes,No,Credit card (automatic),0,0
+CUST-1323,Divya Harris,Month-to-month,16,39.99,641.08,DSL,Yes,Yes,Bank transfer (automatic),1,1
+CUST-1324,Varun Chatterjee,Month-to-month,5,108.96,554.58,Fiber optic,No,No,Credit card (automatic),4,1
+CUST-1325,Daniel Anderson,Two year,64,84.29,5402.71,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1326,Vikram Kapoor,One year,14,47.7,684.98,DSL,Yes,Yes,Mailed check,1,0
+CUST-1327,Meera Miller,Month-to-month,28,70.32,1956.14,DSL,Yes,No,Bank transfer (automatic),2,0
+CUST-1328,Nikhil Nair,Month-to-month,25,51.44,1297.71,DSL,No,Yes,Electronic check,2,0
+CUST-1329,David Deshmukh,Month-to-month,4,84.94,350.32,Fiber optic,No,No,Bank transfer (automatic),4,1
+CUST-1330,Aarav Sharma,Month-to-month,5,61.29,292.72,DSL,No,No,Electronic check,2,1
+CUST-1331,Kavya Sen,One year,4,104.69,433.26,DSL,Yes,Yes,Electronic check,3,1
+CUST-1332,Rahul Thomas,Month-to-month,6,53.35,310.22,DSL,No,Yes,Mailed check,2,1
+CUST-1333,Marcus Joshi,Two year,29,89.89,2600.98,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1334,Mia Davis,Month-to-month,10,99.46,985.82,Fiber optic,No,No,Electronic check,6,1
+CUST-1335,Neha Gupta,Two year,67,93.73,6270.79,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1336,Karan Banerjee,Month-to-month,27,39.93,1083.33,DSL,Yes,No,Mailed check,2,1
+CUST-1337,Tanvi Patel,Two year,59,96.58,5697.77,DSL,Yes,Yes,Credit card (automatic),2,0
+CUST-1338,Chloe Das,Two year,35,87.31,3076.43,DSL,Yes,No,Electronic check,0,0
+CUST-1339,Ananya Jackson,Month-to-month,2,100.66,191.25,Fiber optic,No,No,Credit card (automatic),4,1
+CUST-1340,Aditya Malhotra,Month-to-month,47,85.81,4034.18,DSL,No,Yes,Electronic check,1,0
+CUST-1341,Riya Wilson,Month-to-month,16,49.2,805.23,DSL,No,No,Electronic check,1,1
+CUST-1342,Olivia Mehta,Month-to-month,11,56.6,636.78,DSL,Yes,Yes,Electronic check,1,0
+CUST-1343,Priya Mukherjee,Two year,37,65.42,2440.37,Fiber optic,Yes,Yes,Credit card (automatic),2,0
+CUST-1344,Arjun Verma,Two year,56,100.29,5639.03,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1345,Sneha Rao,One year,18,45.59,829.5,DSL,No,No,Electronic check,3,0
+CUST-1346,Sophia White,One year,57,83.01,4752.99,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1347,Ethan Bose,Two year,40,87.0,3473.62,Fiber optic,No,No,Bank transfer (automatic),2,0
+CUST-1348,Siddharth Taylor,One year,30,67.56,2041.83,DSL,Yes,No,Credit card (automatic),0,0
+CUST-1349,Pooja Reddy,Two year,69,112.66,7779.53,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1350,Elena Chen,Month-to-month,11,89.9,981.59,Fiber optic,No,No,Electronic check,2,1
+CUST-1351,Lucas Iyer,One year,48,91.16,4388.93,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1352,Rohan Kulkarni,Month-to-month,6,58.81,375.42,DSL,Yes,No,Bank transfer (automatic),1,1
+CUST-1353,Divya Harris,Month-to-month,11,102.11,1118.08,Fiber optic,Yes,No,Electronic check,3,1
+CUST-1354,Varun Chatterjee,Two year,69,87.85,6065.15,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1355,Daniel Anderson,Month-to-month,15,114.27,1706.67,DSL,No,No,Electronic check,6,1
+CUST-1356,Vikram Kapoor,Month-to-month,42,63.89,2673.86,DSL,Yes,No,Electronic check,1,0
+CUST-1357,Meera Miller,Two year,67,111.78,7507.1,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1358,Nikhil Nair,Two year,46,113.11,5191.09,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1359,David Deshmukh,Month-to-month,6,102.09,601.67,Fiber optic,No,No,Electronic check,4,1
+CUST-1360,Aarav Sharma,One year,46,84.98,3898.71,Fiber optic,No,Yes,Credit card (automatic),0,1
+CUST-1361,Kavya Sen,One year,39,66.6,2601.49,DSL,Yes,No,Bank transfer (automatic),1,0
+CUST-1362,Rahul Thomas,One year,32,63.31,2018.23,DSL,Yes,No,Bank transfer (automatic),2,0
+CUST-1363,Marcus Joshi,One year,46,68.31,3148.52,Fiber optic,Yes,No,Bank transfer (automatic),3,1
+CUST-1364,Mia Davis,One year,37,79.05,2919.42,DSL,No,No,Credit card (automatic),0,0
+CUST-1365,Neha Gupta,Two year,58,93.7,5444.07,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1366,Karan Banerjee,Month-to-month,1,99.53,106.78,Fiber optic,No,No,Electronic check,4,1
+CUST-1367,Tanvi Patel,Month-to-month,7,59.84,442.2,DSL,No,No,Mailed check,2,1
+CUST-1368,Chloe Das,Month-to-month,27,40.42,1107.58,DSL,No,No,Electronic check,1,1
+CUST-1369,Ananya Jackson,One year,47,76.37,3584.44,DSL,Yes,Yes,Electronic check,2,0
+CUST-1370,Aditya Malhotra,One year,26,69.06,1819.19,DSL,Yes,Yes,Electronic check,0,0
+CUST-1371,Riya Wilson,One year,48,96.54,4650.13,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1372,Olivia Mehta,Month-to-month,14,116.01,1631.0,Fiber optic,No,No,Electronic check,3,1
+CUST-1373,Priya Mukherjee,Month-to-month,13,110.29,1420.87,Fiber optic,No,No,Credit card (automatic),4,1
+CUST-1374,Arjun Verma,One year,27,86.39,2354.59,Fiber optic,Yes,Yes,Electronic check,3,0
+CUST-1375,Sneha Rao,Month-to-month,11,112.75,1235.16,Fiber optic,Yes,No,Electronic check,4,1
+CUST-1376,Sophia White,Month-to-month,21,67.36,1421.55,Fiber optic,Yes,No,Credit card (automatic),1,1
+CUST-1377,Ethan Bose,One year,47,68.8,3220.62,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1378,Siddharth Taylor,One year,40,59.74,2395.8,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1379,Pooja Reddy,Two year,22,63.07,1374.81,Fiber optic,Yes,Yes,Bank transfer (automatic),0,1
+CUST-1380,Elena Chen,Two year,40,91.19,3637.05,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1381,Lucas Iyer,One year,18,57.94,1054.77,No,No,Yes,Electronic check,2,0
+CUST-1382,Rohan Kulkarni,Month-to-month,10,82.75,838.02,Fiber optic,No,No,Electronic check,3,0
+CUST-1383,Divya Harris,Two year,70,92.9,6515.56,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1384,Varun Chatterjee,One year,21,66.62,1415.26,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1385,Daniel Anderson,Two year,47,114.31,5381.34,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1386,Vikram Kapoor,Two year,71,86.73,6169.28,Fiber optic,Yes,No,Credit card (automatic),0,0
+CUST-1387,Meera Miller,Month-to-month,6,112.4,696.55,Fiber optic,No,No,Electronic check,2,1
+CUST-1388,Nikhil Nair,Two year,26,86.63,2257.08,DSL,No,No,Bank transfer (automatic),1,0
+CUST-1389,David Deshmukh,Month-to-month,5,49.4,256.04,Fiber optic,No,No,Electronic check,2,1
+CUST-1390,Aarav Sharma,Month-to-month,15,63.71,952.97,Fiber optic,Yes,Yes,Mailed check,3,0
+CUST-1391,Kavya Sen,Two year,49,90.97,4443.18,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1392,Rahul Thomas,Two year,30,62.29,1866.43,Fiber optic,No,Yes,Bank transfer (automatic),2,0
+CUST-1393,Marcus Joshi,Two year,70,82.45,5789.11,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1394,Mia Davis,Month-to-month,8,48.44,376.32,DSL,No,No,Electronic check,2,1
+CUST-1395,Neha Gupta,Month-to-month,11,94.39,1036.09,DSL,No,Yes,Electronic check,2,1
+CUST-1396,Karan Banerjee,Two year,19,68.72,1318.42,DSL,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1397,Tanvi Patel,Two year,47,85.05,4002.03,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1398,Chloe Das,Month-to-month,8,82.38,646.32,DSL,No,No,Electronic check,4,1
+CUST-1399,Ananya Jackson,One year,40,85.88,3432.51,DSL,Yes,No,Credit card (automatic),0,0
+CUST-1400,Aditya Malhotra,Month-to-month,11,60.33,679.45,DSL,Yes,Yes,Mailed check,1,1
+CUST-1401,Riya Wilson,Month-to-month,8,31.46,252.52,DSL,No,No,Mailed check,3,0
+CUST-1402,Olivia Mehta,One year,28,84.86,2379.75,DSL,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1403,Priya Mukherjee,Month-to-month,3,96.3,290.49,DSL,No,No,Credit card (automatic),3,1
+CUST-1404,Arjun Verma,Two year,65,108.85,7079.35,Fiber optic,Yes,No,Credit card (automatic),2,0
+CUST-1405,Sneha Rao,Month-to-month,23,63.53,1454.79,Fiber optic,Yes,No,Bank transfer (automatic),1,1
+CUST-1406,Sophia White,One year,46,85.3,3924.65,Fiber optic,Yes,Yes,Electronic check,1,0
+CUST-1407,Ethan Bose,Month-to-month,15,102.88,1536.23,Fiber optic,No,No,Electronic check,4,1
+CUST-1408,Siddharth Taylor,One year,55,91.14,5004.79,DSL,Yes,No,Bank transfer (automatic),2,0
+CUST-1409,Pooja Reddy,Month-to-month,6,118.32,719.64,Fiber optic,Yes,No,Credit card (automatic),2,1
+CUST-1410,Elena Chen,One year,15,34.06,519.88,DSL,No,No,Electronic check,2,0
+CUST-1411,Lucas Iyer,Month-to-month,22,64.69,1410.9,DSL,Yes,Yes,Bank transfer (automatic),1,1
+CUST-1412,Rohan Kulkarni,One year,13,43.79,579.3,DSL,No,No,Electronic check,4,0
+CUST-1413,Divya Harris,Month-to-month,5,99.2,487.53,Fiber optic,No,No,Electronic check,3,1
+CUST-1414,Varun Chatterjee,Month-to-month,15,112.62,1693.28,Fiber optic,Yes,No,Electronic check,6,1
+CUST-1415,Daniel Anderson,Month-to-month,8,113.56,895.24,Fiber optic,Yes,No,Electronic check,4,1
+CUST-1416,Vikram Kapoor,One year,22,78.03,1733.52,Fiber optic,Yes,No,Electronic check,1,0
+CUST-1417,Meera Miller,Two year,47,104.58,4903.33,DSL,Yes,Yes,Bank transfer (automatic),2,1
+CUST-1418,Nikhil Nair,Two year,62,95.65,5916.96,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1419,David Deshmukh,One year,41,66.06,2715.34,Fiber optic,Yes,No,Bank transfer (automatic),0,0
+CUST-1420,Aarav Sharma,Month-to-month,18,51.84,947.33,No,No,No,Bank transfer (automatic),3,1
+CUST-1421,Kavya Sen,One year,54,108.37,5870.28,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1422,Rahul Thomas,One year,20,52.0,1027.37,Fiber optic,No,No,Mailed check,2,0
+CUST-1423,Marcus Joshi,Two year,56,113.33,6345.7,Fiber optic,No,No,Credit card (automatic),1,0
+CUST-1424,Mia Davis,One year,40,69.9,2789.98,DSL,No,Yes,Credit card (automatic),0,0
+CUST-1425,Neha Gupta,Month-to-month,22,48.95,1091.3,No,No,No,Mailed check,1,0
+CUST-1426,Karan Banerjee,One year,40,60.07,2424.12,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1427,Tanvi Patel,Month-to-month,11,85.06,936.95,DSL,No,No,Electronic check,4,1
+CUST-1428,Chloe Das,Month-to-month,7,33.7,245.37,DSL,No,No,Bank transfer (automatic),2,1
+CUST-1429,Ananya Jackson,Month-to-month,10,86.05,862.56,Fiber optic,No,No,Electronic check,3,1
+CUST-1430,Aditya Malhotra,Month-to-month,7,106.95,749.15,Fiber optic,No,No,Electronic check,4,1
+CUST-1431,Riya Wilson,Month-to-month,43,63.23,2731.05,Fiber optic,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1432,Olivia Mehta,Month-to-month,13,51.53,691.02,DSL,No,No,Electronic check,1,1
+CUST-1433,Priya Mukherjee,Month-to-month,13,108.7,1437.16,Fiber optic,No,No,Electronic check,5,1
+CUST-1434,Arjun Verma,Month-to-month,17,34.72,613.85,Fiber optic,No,No,Electronic check,1,1
+CUST-1435,Sneha Rao,Two year,66,96.11,6339.03,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1436,Sophia White,One year,67,92.68,6195.58,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1437,Ethan Bose,Month-to-month,25,40.43,1030.04,DSL,Yes,No,Bank transfer (automatic),3,0
+CUST-1438,Siddharth Taylor,Month-to-month,8,91.29,727.56,DSL,No,No,Electronic check,2,1
+CUST-1439,Pooja Reddy,Month-to-month,13,91.32,1184.68,DSL,No,No,Bank transfer (automatic),4,1
+CUST-1440,Elena Chen,Month-to-month,1,104.2,127.58,Fiber optic,No,No,Credit card (automatic),4,1
+CUST-1441,Lucas Iyer,Month-to-month,7,100.23,705.05,DSL,No,No,Electronic check,3,1
+CUST-1442,Rohan Kulkarni,One year,23,45.67,1040.98,DSL,Yes,No,Electronic check,3,0
+CUST-1443,Divya Harris,One year,35,81.09,2835.08,DSL,Yes,Yes,Electronic check,1,0
+CUST-1444,Varun Chatterjee,Month-to-month,47,59.91,2819.27,Fiber optic,Yes,Yes,Credit card (automatic),0,1
+CUST-1445,Daniel Anderson,Month-to-month,9,88.12,794.97,DSL,No,No,Electronic check,2,1
+CUST-1446,Vikram Kapoor,Month-to-month,2,96.55,201.94,Fiber optic,No,No,Electronic check,3,0
+CUST-1447,Meera Miller,One year,37,77.41,2869.69,Fiber optic,No,Yes,Bank transfer (automatic),1,0
+CUST-1448,Nikhil Nair,One year,9,54.44,477.88,Fiber optic,No,No,Electronic check,1,0
+CUST-1449,David Deshmukh,Two year,53,114.81,6085.6,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1450,Aarav Sharma,Two year,22,87.83,1918.77,DSL,No,Yes,Bank transfer (automatic),2,0
+CUST-1451,Kavya Sen,Two year,24,76.31,1830.26,Fiber optic,No,Yes,Bank transfer (automatic),3,1
+CUST-1452,Rahul Thomas,One year,36,88.74,3201.14,Fiber optic,No,No,Credit card (automatic),0,0
+CUST-1453,Marcus Joshi,One year,42,70.81,2963.29,Fiber optic,No,Yes,Credit card (automatic),2,0
+CUST-1454,Mia Davis,One year,7,105.3,735.15,Fiber optic,Yes,No,Electronic check,5,1
+CUST-1455,Neha Gupta,One year,44,84.57,3740.24,Fiber optic,Yes,No,Credit card (automatic),2,1
+CUST-1456,Karan Banerjee,Two year,18,58.49,1072.96,Fiber optic,No,No,Bank transfer (automatic),2,0
+CUST-1457,Tanvi Patel,Two year,59,87.53,5175.09,Fiber optic,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1458,Chloe Das,Two year,23,64.32,1493.75,Fiber optic,Yes,Yes,Electronic check,3,0
+CUST-1459,Ananya Jackson,Month-to-month,8,33.25,276.11,No,No,Yes,Electronic check,4,1
+CUST-1460,Aditya Malhotra,Month-to-month,9,111.45,1014.91,Fiber optic,Yes,Yes,Electronic check,4,1
+CUST-1461,Riya Wilson,Two year,69,94.61,6538.8,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1462,Olivia Mehta,Two year,58,88.37,5126.98,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1463,Priya Mukherjee,One year,43,78.73,3382.31,Fiber optic,Yes,Yes,Credit card (automatic),0,0
+CUST-1464,Arjun Verma,Month-to-month,5,57.53,301.24,DSL,No,No,Mailed check,1,1
+CUST-1465,Sneha Rao,One year,46,64.65,2989.29,Fiber optic,No,Yes,Credit card (automatic),0,0
+CUST-1466,Sophia White,Month-to-month,23,31.38,710.22,DSL,No,No,Bank transfer (automatic),1,0
+CUST-1467,Ethan Bose,One year,57,98.14,5611.45,Fiber optic,No,Yes,Bank transfer (automatic),0,0
+CUST-1468,Siddharth Taylor,Two year,40,84.9,3410.79,DSL,Yes,Yes,Credit card (automatic),1,0
+CUST-1469,Pooja Reddy,Month-to-month,6,108.33,656.81,Fiber optic,No,No,Electronic check,3,1
+CUST-1470,Elena Chen,One year,43,61.61,2646.22,Fiber optic,Yes,No,Bank transfer (automatic),1,0
+CUST-1471,Lucas Iyer,One year,31,62.2,1922.89,Fiber optic,Yes,Yes,Electronic check,0,0
+CUST-1472,Rohan Kulkarni,Month-to-month,5,50.21,249.72,No,Yes,Yes,Mailed check,3,0
+CUST-1473,Divya Harris,Month-to-month,4,111.04,442.76,Fiber optic,No,No,Credit card (automatic),4,1
+CUST-1474,Varun Chatterjee,Month-to-month,7,95.43,660.87,Fiber optic,No,No,Electronic check,3,1
+CUST-1475,Daniel Anderson,Month-to-month,5,115.61,570.76,Fiber optic,No,No,Electronic check,4,1
+CUST-1476,Vikram Kapoor,Two year,27,68.29,1844.02,Fiber optic,Yes,No,Credit card (automatic),1,0
+CUST-1477,Meera Miller,Month-to-month,8,54.38,429.99,DSL,No,No,Electronic check,1,1
+CUST-1478,Nikhil Nair,Month-to-month,12,110.61,1329.83,Fiber optic,No,No,Electronic check,3,1
+CUST-1479,David Deshmukh,One year,35,71.19,2489.29,DSL,No,No,Electronic check,0,0
+CUST-1480,Aarav Sharma,Month-to-month,6,97.64,580.3,Fiber optic,Yes,No,Electronic check,2,1
+CUST-1481,Kavya Sen,Two year,41,86.75,3581.0,Fiber optic,Yes,No,Credit card (automatic),0,0
+CUST-1482,Rahul Thomas,Two year,68,85.89,5842.39,DSL,Yes,Yes,Credit card (automatic),0,0
+CUST-1483,Marcus Joshi,One year,35,69.91,2471.58,DSL,No,Yes,Credit card (automatic),1,0
+CUST-1484,Mia Davis,One year,18,67.7,1214.88,DSL,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1485,Neha Gupta,Month-to-month,24,48.38,1166.73,DSL,No,No,Electronic check,1,1
+CUST-1486,Karan Banerjee,Two year,45,94.44,4257.83,DSL,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1487,Tanvi Patel,Two year,45,76.27,3450.95,Fiber optic,No,Yes,Credit card (automatic),0,0
+CUST-1488,Chloe Das,Two year,71,88.07,6239.58,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0
+CUST-1489,Ananya Jackson,One year,30,65.0,1967.34,DSL,Yes,No,Bank transfer (automatic),3,0
+CUST-1490,Aditya Malhotra,Month-to-month,10,81.51,805.45,DSL,Yes,No,Credit card (automatic),4,0
+CUST-1491,Riya Wilson,Two year,53,85.27,4541.26,DSL,Yes,Yes,Bank transfer (automatic),0,0
+CUST-1492,Olivia Mehta,Month-to-month,15,93.68,1418.91,Fiber optic,No,Yes,Electronic check,3,0
+CUST-1493,Priya Mukherjee,Two year,21,86.92,1834.04,DSL,Yes,No,Credit card (automatic),1,0
+CUST-1494,Arjun Verma,Month-to-month,2,80.37,161.74,Fiber optic,No,No,Electronic check,3,1
+CUST-1495,Sneha Rao,Two year,27,69.52,1872.3,Fiber optic,Yes,Yes,Bank transfer (automatic),2,0
+CUST-1496,Sophia White,Month-to-month,14,117.65,1655.38,Fiber optic,No,Yes,Electronic check,3,1
+CUST-1497,Ethan Bose,One year,7,45.9,323.37,DSL,No,Yes,Bank transfer (automatic),3,1
+CUST-1498,Siddharth Taylor,Month-to-month,4,111.47,442.52,Fiber optic,No,Yes,Electronic check,4,1
+CUST-1499,Pooja Reddy,Month-to-month,16,39.78,634.79,DSL,No,No,Electronic check,3,0
+CUST-1500,Elena Chen,One year,27,59.78,1619.92,Fiber optic,Yes,Yes,Bank transfer (automatic),1,0

@@ -1,0 +1,31 @@
+APPROVED RETENTION OFFERS CATALOG & ELIGIBILITY MATRIX
+
+1. Offer: 20% Cashback
+- Target Segment: At Risk, High Risk
+- Delivery Channel: Phone Call + Email
+- Expected Retention Lift: +28.5% | Expected Response Rate: 34.8%
+- Financial Rule: Capped at $250 credit applied to next billing statement upon 12-month commitment.
+
+2. Offer: 25% Annual Contract Discount
+- Target Segment: At Risk, Price Sensitive (High/Medium Risk)
+- Delivery Channel: Phone Call + Email
+- Expected Retention Lift: +26.0% | Expected Response Rate: 31.2%
+- Policy Note: Represents the maximum discount allowed (25%) under standard retention governance without VP escalation.
+
+3. Offer: Complimentary Fiber Upgrade + Priority Tech Support
+- Target Segment: Loyal Customers, At Risk with technical tickets
+- Delivery Channel: Email + In-App Notification
+- Expected Retention Lift: +24.2% | Expected Response Rate: 38.4%
+- Policy Note: Zero ARPU dilution; resolves root-cause Internet Service and Tech Support churn drivers.
+
+4. Offer: Loyalty VIP Tier Upgrade
+- Target Segment: Champions, Loyal Customers
+- Delivery Channel: Dedicated Account Manager + VIP Concierge Call
+- Expected Retention Lift: +31.0% | Expected Response Rate: 46.5%
+- Policy Note: Includes priority routing, annual hardware refresh, and complimentary streaming bundle.
+
+5. Offer: 15% Bill Credit for 3 Months
+- Target Segment: Price Sensitive, Medium Risk Loyal Customers
+- Delivery Channel: SMS + Email
+- Expected Retention Lift: +21.8% | Expected Response Rate: 29.5%
+- Policy Note: Maximum discount allowed for Medium-Risk tier without contract extension requirement.

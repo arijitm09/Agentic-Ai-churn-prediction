@@ -1,0 +1,13 @@
+ENTERPRISE CUSTOMER RETENTION POLICY & GOVERNANCE STANDARD (v4.2)
+
+1. Maximum Discount & Offer Thresholds:
+What is the maximum discount allowed?
+The maximum discount allowed under standard enterprise retention policy is 25% on annual contract renewals or up to 20% Cashback (capped at $250 per billing cycle) for High-Risk customers. Any promotional discount exceeding 25% requires VP of Customer Success sign-off and is restricted to Enterprise accounts with Annual Recurring Revenue (ARR) above $5,000. For Medium-Risk customers, the maximum discount allowed is 15% Bill Credit for 3 months. Low-Risk customers are eligible for non-monetary value-adds (loyalty points, speed upgrades, or priority support) with a 0% to 5% maximum discount ceiling.
+
+2. Risk Level Classification & Escalation SLA:
+- High Risk (Churn Probability >= 0.65): Mandatory outreach within 24 hours via Phone Call + Email. Eligible for Tier-1 offers including 20% Cashback or 25% Annual Contract Discount.
+- Medium Risk (Churn Probability 0.35 to 0.64): Automated outreach within 48 hours via Email + SMS/In-App Notification. Eligible for 15% Bill Credit for 3 Months or Complimentary Fiber Upgrade + Priority Tech Support.
+- Low Risk (Churn Probability < 0.35): Proactive engagement via quarterly newsletter, Loyalty VIP Tier Upgrade, and self-service portal perks.
+
+3. Contract Conversion Mandate:
+Month-to-month customers exhibiting high monthly charges (> $80/month) and low tenure (< 12 months) represent 68% of voluntary churn. Retention specialists must prioritize migrating month-to-month accounts onto 1-Year or 2-Year contracts using the 25% Annual Contract Discount or 20% Cashback incentive.

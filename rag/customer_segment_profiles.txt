@@ -1,0 +1,20 @@
+K-MEANS CUSTOMER SEGMENTATION PROFILES & BEHAVIORAL ARCHETYPES
+
+1. Segment 1: At Risk
+- Profile: Customers with short-to-medium tenure (1–15 months), predominantly on Month-to-Month contracts, high Monthly Charges ($75–$118), frequent technical support tickets (3+ calls), and high sensitivity to billing spikes.
+- Primary Churn Drivers: Month-to-month contract instability, elevated monthly charges, unresolved fiber/internet service tickets, and absence of bundled Tech Support.
+- Recommended Strategy: Immediate high-touch intervention via Phone Call + Email with 20% Cashback or 25% Annual Contract Discount.
+
+2. Segment 2: Loyal Customers
+- Profile: Established customers with 18–45 months tenure, moderate-to-high monthly charges ($60–$95), stable payment histories, typically on 1-Year contracts.
+- Primary Churn Drivers: Service quality degradation, competitor fiber promotions, or lack of perceived renewal rewards when approaching contract expiration.
+- What retention strategy works best for Loyal Customers? Proactive value-add retention centered on Complimentary Fiber Upgrade + Priority Tech Support delivered via Email + In-App Notification, preserving recurring revenue while boosting satisfaction.
+
+3. Segment 3: Champions
+- Profile: Long-tenure customers (42–72 months), 2-Year contracts, multi-service bundles (Fiber Optic + Online Security + Tech Support), high Total Charges ($3,500–$8,500), and low support friction.
+- Primary Churn Drivers: Rare executive-level service outages or lack of VIP recognition.
+- Which channel performs best for Champions? Dedicated Account Manager + VIP Concierge Call paired with personalized executive email outreach and Loyalty VIP Tier Upgrade rewards.
+
+4. Segment 4: Price Sensitive
+- Profile: Low-to-moderate tenure (3–24 months), basic DSL or entry-level Fiber plans ($35–$68/month), electronic check payers who react strongly to minor rate adjustments.
+- Recommended Strategy: Automated SMS + Email campaign featuring 15% Bill Credit for 3 Months or Free Smart Router + Waiver of Late Fee.

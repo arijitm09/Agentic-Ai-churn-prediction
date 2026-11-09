@@ -1,0 +1,21 @@
+CampaignID,CampaignName,Segment,Offer,Channel,ResponseRate,RetentionImprovement
+CMP-101,High-Value Cashback Rescue,At Risk,20% Cashback,Phone Call + Email,34.8,28.5
+CMP-102,Annual Lock-In Shield,At Risk,25% Annual Contract Discount,Phone Call + Email,31.2,26.0
+CMP-103,At-Risk Tech & Fiber Recovery,At Risk,Complimentary Fiber Upgrade + Priority Tech Support,Phone Call + Email,27.6,22.4
+CMP-104,At-Risk VIP Fast-Track,At Risk,Loyalty VIP Tier Upgrade,Phone Call + Email,24.0,18.2
+CMP-105,At-Risk Bill Relief Bridge,At Risk,15% Bill Credit for 3 Months,SMS + Email,25.4,19.6
+CMP-106,Fiber Speed & Tech Concierge Upgrade,Loyal Customers,Complimentary Fiber Upgrade + Priority Tech Support,Email + In-App Notification,38.4,24.2
+CMP-107,Loyal Appreciation Cashback,Loyal Customers,20% Cashback,Email + In-App Notification,35.1,22.9
+CMP-108,Loyal Renewal Contract Saver,Loyal Customers,25% Annual Contract Discount,Phone Call + Email,33.0,23.5
+CMP-109,Loyal Milestone VIP Elevation,Loyal Customers,Loyalty VIP Tier Upgrade,Email + In-App Notification,36.8,25.4
+CMP-110,Loyal Bill Credit Booster,Loyal Customers,15% Bill Credit for 3 Months,Email + In-App Notification,31.8,20.4
+CMP-111,Champions Executive VIP Club,Champions,Loyalty VIP Tier Upgrade,Dedicated Account Manager + VIP Concierge Call,46.5,31.0
+CMP-112,Champions Gigabit Premier,Champions,Complimentary Fiber Upgrade + Priority Tech Support,Dedicated Account Manager + VIP Concierge Call,42.1,27.8
+CMP-113,Champions Cashback Dividend,Champions,20% Cashback,Email + In-App Notification,37.9,24.5
+CMP-114,Champions Multi-Year Executive Lock,Champions,25% Annual Contract Discount,Dedicated Account Manager + VIP Concierge Call,39.4,26.2
+CMP-115,Champions Courtesy Bill Credit,Champions,15% Bill Credit for 3 Months,Email + In-App Notification,34.2,21.5
+CMP-116,15% Bill Relief Wave,Price Sensitive,15% Bill Credit for 3 Months,SMS + Email,29.5,21.8
+CMP-117,Budget Annual Lock-In,Price Sensitive,25% Annual Contract Discount,SMS + Email,32.4,24.7
+CMP-118,Instant Cashback Saver,Price Sensitive,20% Cashback,SMS + Email,30.8,23.1
+CMP-119,Value Fiber Bundle Boost,Price Sensitive,Complimentary Fiber Upgrade + Priority Tech Support,Email + In-App Notification,26.9,19.4
+CMP-120,Smart Saver Loyalty Tier,Price Sensitive,Loyalty VIP Tier Upgrade,Email + In-App Notification,24.5,17.8
